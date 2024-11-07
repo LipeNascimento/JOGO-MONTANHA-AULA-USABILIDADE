@@ -35,5 +35,4 @@ O objetivo é familiarizar-se com o processo de desenvolvimento de jogos, desde 
 
 ## 📦 Desenvolvimento de Jogo
 
-![Demonstração do Jogo]([https://previews.dropbox.com/p/thumb/ACcKDvDC9DEo5-iX_IsLqZqrW54Gv-cGIpP0aA3KY6P_qXhYjTExGHzy1so8Fs0L1Clo1DBBSdVrcTeQxZqUH8mYx2BikCtgM_q2SI_TvcJ9QlEVBDFtrOhFwdZfgNrUlDo3k61fdc-xe6mrZfntt8yF11n9p5MnnOTJi77RDTKyD1EdgubblGqECKFOde6AAW6K5YbcGlpBfyiWjgCV032EQiBe0k4oe_dmvX16j3SfGwiUTg3EIMi-Kto6QwkCcQ1TtEx9nyYSYPUaMZ0HtbEiqpt8Hmhd4hJvEz9dUvaUFQqVxZnh7eAOShO_YIfh9xTiYgV-UuoWz4NaLmSyv_Ko/p.gif?is_prewarmed=true](https://1drv.ms/i/c/d689dfc038c2834e/EdF2iBLzUTtMk04RdYzhrQsBDjwG0BjiwDymJdDw8x4twA?e=4DcKUl)
-
+![Desenvolvimento de Jogo](https://previews.dropbox.com/p/thumb/ACcKDvDC9DEo5-iX_IsLqZqrW54Gv-cGIpP0aA3KY6P_qXhYjTExGHzy1so8Fs0L1Clo1DBBSdVrcTeQxZqUH8mYx2BikCtgM_q2SI_TvcJ9QlEVBDFtrOhFwdZfgNrUlDo3k61fdc-xe6mrZfntt8yF11n9p5MnnOTJi77RDTKyD1EdgubblGqECKFOde6AAW6K5YbcGlpBfyiWjgCV032EQiBe0k4oe_dmvX16j3SfGwiUTg3EIMi-Kto6QwkCcQ1TtEx9nyYSYPUaMZ0HtbEiqpt8Hmhd4hJvEz9dUvaUFQqVxZnh7eAOShO_YIfh9xTiYgV-UuoWz4NaLmSyv_Ko/p.gif?is_prewarmed=true)
