@@ -37,3 +37,5 @@ O objetivo é familiarizar-se com o processo de desenvolvimento de jogos, desde 
 
 ![Desenvolvimento de Jogo](https://www.dropbox.com/scl/fi/7am1vjxcejmw6qylcth8d/clideo_editor_4fa309b434bb405da0dde114326f6cf4.gif?rlkey=1jg0e5k16b172me1f8hy27exn&st=gde905nz&raw=1)
 
+
+## Usabilidade: Setas do teclado movimenta a nave e o botão 'ctrl' atira!!
